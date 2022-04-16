@@ -1,7 +1,7 @@
 package eCommerceDemo.core.adapter;
 
 import eCommerceDemo.core.abstracts.PasswordValidatorService;
-import eCommerceDemo.entites.concretes.User;
+
 import eCommerceDemo.jOutSourceValidators.JOutSourcePasswordValidator;
 
 public class JOutSourcePasswordValidatorAdapter implements PasswordValidatorService {

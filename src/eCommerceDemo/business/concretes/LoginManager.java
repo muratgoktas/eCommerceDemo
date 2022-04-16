@@ -5,8 +5,6 @@ import java.util.List;
 
 import eCommerceDemo.business.abstracts.LoginService;
 import eCommerceDemo.core.abstracts.GmailValidatorService;
-import eCommerceDemo.core.abstracts.PasswordValidatorService;
-import eCommerceDemo.core.utils.EmailValidatorManager;
 import eCommerceDemo.dataAccess.abstracts.UserDao;
 import eCommerceDemo.entites.concretes.User;
 
